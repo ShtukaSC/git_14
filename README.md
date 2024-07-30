@@ -2,7 +2,9 @@
 Задание 1. Резервное копирование
 
 1.1 Full backup
+
 1.2 Differential backup
+
 1.3.* Репликация с master on slave
 
 Задание 2. PostgreSQL
